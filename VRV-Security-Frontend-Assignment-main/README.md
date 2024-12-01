@@ -36,8 +36,7 @@ To get started with this project, follow the steps below:
 
 ### 1. Clone the Project 
    First, clone the repository to your local machine using command :
-     
-    git clone https://github.com/janhvi-pandey/VRV-Security-Frontend-Assignment.git
+    
         
 
 
@@ -65,12 +64,10 @@ This will start the app on http://localhost:3000. You should be able to access t
 
 If you encounter any issues or need further clarification, feel free to contact me at:
 
-- Email: shivipandey993@gmail.com
-- Phone: +91 6307976482
+- Email: ritikshrivastav2003@gmail.com
+
 
 
 
 ## Thankyou 
 
-Thank you for checking out my project! I hope this guide has helped you understand the features and functionality of the RBAC UI. If you have any questions or need further assistance, feel free to reach out.
-Your feedback and suggestions are always appreciated.😊
